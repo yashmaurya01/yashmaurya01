@@ -4,6 +4,7 @@ I'm Yash Maurya, a Privacy Engineering Graduate student at Carnegie Mellon Unive
 \
 I'm dedicated to creating privacy-conscious AI solutions and ensuring the ethical use of data. My mission is to design robust privacy systems for the greater good of society. \
 \
+
 My key interests are in Federated Learning, Differential Privacy, Explainable and Responsible AI. 
 
 ---
