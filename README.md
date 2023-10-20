@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello there!
 
-<!--
-**yashmaurya01/yashmaurya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yash Maurya, a Privacy Engineering Graduate student at Carnegie Mellon University.
 
-Here are some ideas to get you started:
+I'm dedicated to creating privacy-conscious AI solutions and ensuring the ethical use of data. My mission is to design robust privacy systems for the greater good of society. 
+My key interests are in Federated Learning, Differential Privacy, Explainable and Responsible AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Please feel free to connect with me if you're interested in discussing privacy in the digital realm or exploring the ethical applications of AI. Let's work together to make the world a safer, smarter, and more responsible place! 🚀🌐🤖
+
+## Contact Information
+🌐 LinkedIn: [yashmaurya.com](https://www.linkedin.com/in/yashmaurya/)
+🐦 Twitter: [@yashmaurya01](https://twitter.com/yashmaurya01)
