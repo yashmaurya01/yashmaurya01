@@ -12,4 +12,4 @@ Please feel free to connect with me if you're interested in discussing privacy i
 
 ## Contact Information
 🌐 LinkedIn: [yashmaurya](https://www.linkedin.com/in/yashmaurya/) \
-🐦 Twitter: [@yashmaurya2001](https://twitter.com/yashmaurya2001) 
+🐦 Twitter: [@yash_maurya01](https://twitter.com/yash_maurya01) 
