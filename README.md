@@ -11,6 +11,6 @@ My key interests are in Federated Learning, Differential Privacy, Explainable an
 Please feel free to connect with me if you're interested in discussing privacy in the digital realm or exploring the ethical applications of AI. Let's work together to make the world a safer, smarter, and more responsible place! 
 
 ## Contact Information
-Website: [yashmaurya.com](yashmaurya.com) \
+Website: [yashmaurya.com](https://www.yashmaurya.com) \
 LinkedIn: [yashmaurya](https://www.linkedin.com/in/yashmaurya/) \
 Twitter: [@yash_maurya01](https://twitter.com/yash_maurya01) 
